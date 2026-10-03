@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of ralkage/flarum-ext-ad-management.** Not for installation: use [Packagist](https://packagist.org/packages/ralkage/flarum-ext-ad-management) or the [upstream repository](https://github.com/Ralkage/flarum-ext-ad-management).
 
-**0** versions archived · Latest: [`v2.0.0-beta.8`](https://github.com/flarchive/ralkage-flarum-ext-ad-management/tree/archive/v2.0.0-beta.8) · License: `MIT` · Flarum: `^2.0.0-beta.7`
+**10** versions archived · Latest: [`v2.0.0-beta.8`](https://github.com/flarchive/ralkage-flarum-ext-ad-management/tree/archive/v2.0.0-beta.8) (stable: [`1.0.0`](https://github.com/flarchive/ralkage-flarum-ext-ad-management/tree/archive/v1.0.0)) · License: `MIT` · Flarum: `^2.0.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-03-25 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-ad-management/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-03-25 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-ad-management/tree/archive/v1.0.1) |
+| `1.0.2` | 2026-03-26 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-ad-management/tree/archive/v1.0.2) |
+| `1.0.3` | 2026-03-26 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-ad-management/tree/archive/v1.0.3) |
+| `1.1.0` | 2026-03-26 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-ad-management/tree/archive/v1.1.0) |
+| `1.1.1` | 2026-03-26 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-ad-management/tree/archive/v1.1.1) |
+| `1.1.2` | 2026-03-26 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-ad-management/tree/archive/v1.1.2) |
+| `1.1.3` | 2026-03-26 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-ad-management/tree/archive/v1.1.3) |
+| `1.2.0` | 2026-03-26 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-ad-management/tree/archive/v1.2.0) |
+| `v2.0.0-beta.8` | 2026-03-30 | `^2.0.0-beta.7` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-ad-management/tree/archive/v2.0.0-beta.8) |
 
 Catalog entry: [packages/ralkage-flarum-ext-ad-management.json](https://github.com/flarchive/archive-index/blob/main/packages/ralkage-flarum-ext-ad-management.json)
 
